@@ -1,0 +1,33 @@
+img {
+width: 100%
+
+}
+
+html {
+	background-color:#DBC2EA;
+}
+
+a {
+	font-size: 2rem;
+	color: #808000
+}
+
+h3 {
+	font-size: 2rem;
+}
+
+h1 {
+	font-size: 7rem;
+	color: white;
+	text-align: center;
+}
+
+body {
+	font-family: serif
+}
+
+p {
+	font-size: 2rem;
+	color: #4B371C;
+}
+
